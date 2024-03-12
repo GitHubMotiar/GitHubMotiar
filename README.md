@@ -7,7 +7,7 @@
 - Building responsive and user-friendly websites and web applications.
 - Backend development with tools like Node.js and Express.
 
-📝 In addition to coding, I'm enthusiastic about technical writing. I believe that clear and concise documentation is key to helping others understand and use technology effectively.
+📝 In addition to coding, I'm all into technical writing. I believe that clear and concise documentation is key to helping others understand and use technology effectively.
 - 💞️ I'm excited to collaborate, learn, and share knowledge with the GitHub community. Feel free to reach out, ask questions, or explore potential collaborations.
 - 📫 📬 **Contact**: rehanrehman2013@gmail.com
 - 
