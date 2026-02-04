@@ -1,4 +1,4 @@
-# Hi, I'm Motiar Rahaman 👋
+# Hi, I'm Motiar Rahaman
 
 **Senior Technical Writer** | API Documentation Specialist | Docs-as-Code Advocate
 
