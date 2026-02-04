@@ -63,7 +63,7 @@ I transform complex technical concepts into clear, developer-friendly documentat
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00f5d4?style=for-the-badge)](https://your-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00f5d4?style=for-the-badge)](https://github.com/githubMotiar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/motiar-rahaman-15488b74)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanrehman2013@gmail.com)
 
